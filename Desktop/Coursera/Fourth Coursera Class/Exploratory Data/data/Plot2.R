@@ -1,6 +1,6 @@
 #References: rdpeng/ExData_Plotting1, https://github.com/TomLous
 
-## load data and discard all rows but those of days 1/2/2007 and 2/2/2007
+#load data and discard all rows except for days 1/2/2007 and 2/2/2007
 dataFile <- "./household_power_consumption.txt"
 data <- read.table(dataFile, header=TRUE, sep=";",dec=".")
 subSetData <- data[data$Date %in% c("1/2/2007","2/2/2007"),]
