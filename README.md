@@ -1,5 +1,11 @@
 ## Introduction
 
+Please Note References: rdpeng/ExData_Plotting1, https://github.com/TomLous
+
+Open Folder forked from rdpeng/ExData_Plotting1
+below to view each individual Plot*.R files and plot*.png files: 
+Folder name: ExData_Plotting1/Desktop/Coursera/Fourth Coursera Class/Exploratory Data/data/
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
